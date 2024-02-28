@@ -26,7 +26,7 @@ def home_page():
     st.write("## Sir Ghuffran Kamal Python CIT Project")
 
     # Display Logo
-    st.image("your_logo_url.png", use_column_width=True)
+    st.image("https://github.com/moazzampasha/Bano-Qabil-Class-Examples/blob/main/logo.png", use_column_width=True)
 
     # Streamlit UI
     st.title("Currency Converter")
